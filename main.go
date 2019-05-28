@@ -1,8 +1,6 @@
 package main
 
 import (
-	"bytes"
-
 	"github.com/gokusenz/go-linenotify"
 )
 
